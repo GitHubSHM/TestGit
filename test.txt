@@ -3,5 +3,9 @@ local add change
 
 remote add change
 
+<<<<<<< HEAD
 
 local add change two
+=======
+remote add change two.................
+>>>>>>> tmp
